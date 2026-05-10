@@ -1,0 +1,14 @@
+venv/
+.venv/
+env/
+Lib/
+Scripts/
+Include/
+site-packages/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+Chroma_db/
+uploads/
+*.log
